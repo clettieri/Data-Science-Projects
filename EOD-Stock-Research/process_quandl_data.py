@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon May 01 12:50:13 2017
+Will process the wiki prices EOD data set on quandl into individual
+csv files for each symbol listed in global SYMBOLS.
 
-@author: Chris
 """
 import pandas as pd
+import os
 
 WIKI_DATA_PATH = 'data/wiki_prices.csv'
 
@@ -25,6 +25,9 @@ def write_specific_stock_data_file(main_data_df, ticker):
     Given the main dataframe and a symbol, will write the
     individual file for that stock.
     '''
+    #Create data folder if not there
+    if not os.path.exists("data"):
+        os.makedirs("data")
     output_df = main_data_df[main_data_df['ticker'] == ticker]
     output_df.to_csv("data/"+ticker + ".csv")
     
