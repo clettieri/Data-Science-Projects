@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon May 01 13:39:05 2017
-
-@author: Chris
+Given a symbol name, get_data() will return a dataframe
+from data/symbol.csv with engineered features added.
 """
 import pandas as pd
 import numpy as np
