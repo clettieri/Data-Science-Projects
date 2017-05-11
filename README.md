@@ -11,3 +11,8 @@ Write up of my Kaggle submission for this competition.  Predict popularity of a 
 
 See the notebook:  RentHop Inquires- FINAL.ipynb  
 Other notebooks in folder:  RentHop  
+
+## Russian Housing Market  
+Kaggle contest I am currently working on as of 5/11/17.  Predicting real estate sale prices.  
+
+See the folder: Russian-Housing-Market, notebook "Part 2" is most recent submission
