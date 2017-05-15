@@ -18,7 +18,7 @@ Kaggle contest I am currently working on as of 5/11/17.  Predicting real estate 
 See the folder: Russian-Housing-Market, notebook "Part 2" is most recent submission
 
 ## CBF Hackathon - Honorable Mention
-Cognitive Builder Fair 2017 sponsored by IBM and FourSquare.  Neighborhood Analytics is a 
+Cognitive Builder Faire 2017 sponsored by IBM and FourSquare.  Neighborhood Analytics is a 
 data product using Four Square's venue data that will answer the question, what is the best
 use of this empty lot in this neighborhood? 
 
