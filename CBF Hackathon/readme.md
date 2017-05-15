@@ -1,4 +1,4 @@
-# Cognitive Builder Fair NYC 2017 Hackathon
+# Cognitive Builder Faire NYC 2017 Hackathon
 
 Using IBM's DSX and the Four Square API we developed an advanced set of neighbhorhood analytics.
 
