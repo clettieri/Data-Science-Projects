@@ -22,5 +22,5 @@ Cognitive Builder Fair 2017 sponsored by IBM and FourSquare.  Neighborhood Analy
 data product using Four Square's venue data that will answer the question, what is the best
 use of this empty lot in this neighborhood? 
 
-See the folder: CBF Hackathon
+See the folder: CBF Hackathon  
 See the notebook: Final - Neighborhood Analytics.ipynb (this notebook was my contribution to the team)
